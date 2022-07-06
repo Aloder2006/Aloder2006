@@ -3,7 +3,7 @@
 <h3 align="center">A professional front end developer</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aloder2006&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aloder2006&show_icons=true&theme=dark)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
