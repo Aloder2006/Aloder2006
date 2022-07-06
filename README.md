@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Abdulrahman</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aloder2006&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
