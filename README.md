@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=200&section=header&text=Abdulrahman%20Atef&fontSize=50&fontAlignY=35&desc=AI%20%26%20Data%20Science%20%7C%20Full-Stack%20Developer%20%7C%20FCAI%20Student&descAlignY=55&descSize=16&fontColor=ffffff)
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,25&amp;height=200&amp;section=header&amp;text=Abdulrahman%20Atef&amp;fontSize=50&amp;fontAlignY=35&amp;desc=AI%20%26%20Data%20Science%20%7C%20Full-Stack%20Developer%20%7C%20FCAI%20Student&amp;descAlignY=55&amp;descSize=16&amp;fontColor=ffffff" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B72FF&center=true&vCenter=true&width=600&lines=Building+AI+that+makes+an+impact+%F0%9F%9A%80;MEAN+Stack+%2B+Machine+Learning+enthusiast;Competitive+programmer+%F0%9F%A7%A0;Gym+rat+%26+football+organizer+%E2%9A%BD)](https://git.io/typing-svg)
 
