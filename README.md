@@ -18,7 +18,6 @@ I'm a **second-year CS & AI student** at the Faculty of Computers and Artificial
 - 💡 Proud participant in the **Digital Egypt Pioneers Initiative (DEPI)** — AI & Data Science track
 - 💻 Background in **competitive programming** and algorithmic problem-solving camps
 - 🌱 Currently mastering the **MEAN Stack** + advanced **Machine Learning** algorithms
-- 🏋️ Fun fact: When not debugging — I'm at the gym (bulking szn 💪) or running local football tournaments in Shubra Al-Baho ⚽
 
 ---
 
