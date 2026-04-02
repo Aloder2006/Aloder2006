@@ -1,39 +1,98 @@
-<h1 align="center">Hi, I'm Abdulrahman</h1>
-<h3 align="center">A Professional Front-End Developer</h3>
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aloder2006&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aloder2006&show_icons=true&theme=dark)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=200&section=header&text=Abdulrahman%20Atef&fontSize=50&fontAlignY=35&desc=AI%20%26%20Data%20Science%20%7C%20Full-Stack%20Developer%20%7C%20FCAI%20Student&descAlignY=55&descSize=16&fontColor=ffffff" width="100%" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.facebook.com/abdulrahmaan2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://instagram.com/i4rqm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B72FF&center=true&vCenter=true&width=600&lines=Building+AI+that+makes+an+impact+%F0%9F%9A%80;MEAN+Stack+%2B+Machine+Learning+enthusiast;Competitive+programmer+%F0%9F%A7%A0;Gym+rat+%26+football+organizer+%E2%9A%BD)](https://git.io/typing-svg)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://pugjs.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="Pug" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-</p>
+</div>
+
+---
+
+## 👋 Hey, I'm Abdulrahman!
+
+> *"From building AI models to organizing Ramadan football tournaments — I believe in teamwork, continuous learning, and making an impact."*
+
+I'm a **second-year CS & AI student** at the Faculty of Computers and Artificial Intelligence, Menoufia National University. I'm passionate about blending **software engineering** with **machine learning** to build scalable, impactful solutions — and I never stop learning.
+
+- 🎓 Studying **Computer Science & Artificial Intelligence** @ FCAI
+- 💡 Proud participant in the **Digital Egypt Pioneers Initiative (DEPI)** — AI & Data Science track
+- 💻 Background in **competitive programming** and algorithmic problem-solving camps
+- 🌱 Currently mastering the **MEAN Stack** + advanced **Machine Learning** algorithms
+- 🏋️ Fun fact: When not debugging — I'm at the gym (bulking szn 💪) or running local football tournaments in Shubra Al-Baho ⚽
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Web Development**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**AI & Data Science**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Core Concepts**
+
+![DSA](https://img.shields.io/badge/DSA-9B72FF?style=for-the-badge&logo=leetcode&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-63D9FF?style=for-the-badge&logo=abstract&logoColor=black)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF6384?style=for-the-badge&logo=codeforces&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aloder2006&theme=radical" width="100%" />
+
+<img src="https://streak-stats.demolab.com/?user=Aloder2006&theme=radical&hide_border=true" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aloder2006&theme=radical" width="49%" />
+
+</div>
+
+---
+
+## 🚀 What I'm Working On
+
+- 🔭 Building projects with the **MEAN Stack** (full-stack web apps)
+- 🧠 Diving deeper into **ML algorithms** — from regression to neural networks
+- 🏆 Sharpening **competitive programming** skills daily
+- 📚 Exploring **Data Analysis** pipelines and visualization
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Your_Email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aloder2006)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=100&section=footer" width="100%" />
+
+⭐️ *If you find my work interesting, don't forget to leave a star!*
+
+</div>
