@@ -79,7 +79,7 @@ I'm a **second-year CS & AI student** at the Faculty of Computers and Artificial
 
 <div align="center">
   
-[![Tribbel](https://www.tribbel.ai/favicon.ico?favicon.0usrc-uwqgg_m.ico?dpl=dpl_HPYp6ZPiPudk1ut7Uyphw1sheTTZ)](https://www.tribbel.ai/users/i4rqm)
+[![Tribbel](https://img.shields.io/badge/Tribbel.ai-00bc7d?style=for-the-badge)](https://www.tribbel.ai/users/i4rqm)
 <br>
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdoatef991@gmail.com)
 <br>
