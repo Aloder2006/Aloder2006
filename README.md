@@ -15,9 +15,7 @@
 I'm a **second-year CS & AI student** at the Faculty of Computers and Artificial Intelligence, Menoufia National University. I'm passionate about blending **software engineering** with **machine learning** to build scalable, impactful solutions — and I never stop learning.
 
 - 🎓 Studying **Computer Science & Artificial Intelligence** @ FCAI
-- 💡 Proud participant in the **Digital Egypt Pioneers Initiative (DEPI)** — AI & Data Science track
 - 💻 Background in **competitive programming** and algorithmic problem-solving camps
-- 🌱 Currently mastering the **MEAN Stack** + advanced **Machine Learning** algorithms
 
 ---
 
