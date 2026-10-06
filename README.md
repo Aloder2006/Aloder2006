@@ -15,15 +15,17 @@
 
 I'm a **third-year Computer Science & Artificial Intelligence student** at the Faculty of Computers and Artificial Intelligence, **Menoufia National University**.
 
-I focus on **backend development** with **Node.js**, and I'm currently studying in a dedicated **backend track with Root Track**. Outside of coursework, I build my own tools and **self-host them on Linux servers** (Ubuntu and Arch), which gives me hands-on experience with **deployment, networking, and server maintenance**.
+I focus on **backend development** with **Node.js**, and I'm currently studying in a dedicated **backend track at [Route](https://routeeg.com/)**. Outside of coursework, I build my own tools and **self-host them on Linux servers** (Ubuntu and Arch), which gives me hands-on experience with **deployment and server maintenance**.
 
-I also have a background in **competitive programming**, which shaped how I approach **problem solving and algorithms**.
+I also have a **background in networking**, which helps me understand how services communicate, how traffic flows, and how to troubleshoot problems beyond the code itself.
+
+On top of that, I have a background in **competitive programming**, which shaped how I approach **problem solving and algorithms**.
 
 ---
 
 ## Current Focus
 
-- **Backend track at Root Track:** building and structuring server-side applications
+- **Backend track at Route:** building and structuring server-side applications
 - **Node.js and Express:** REST APIs and application architecture
 - **MongoDB:** data modeling and database design
 - **Machine learning fundamentals:** from regression to neural networks, through my university program
@@ -33,25 +35,30 @@ I also have a background in **competitive programming**, which shaped how I appr
 
 ## Tech Stack
 
-**Languages**
+<h3 align="center">Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,cpp&theme=dark" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=js,python,cpp&theme=dark" />
+<h3 align="center">Backend and Databases</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+</p>
 
-**Backend and Databases**
+<h3 align="center">Tools and Environment</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,arch,postman,vscode&theme=dark" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+<h3 align="center">AI and Data</h3>
+<p align="center">
+  <code>scikit-learn</code> &nbsp; <code>Pandas</code> &nbsp; <code>NumPy</code>
+</p>
 
-**Tools and Environment**
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,arch,postman,vscode&theme=dark" />
-
-**AI and Data**
-
-<img src="https://skillicons.dev/icons?i=py&theme=dark" />
-
-`scikit-learn` &nbsp; `Pandas` &nbsp; `NumPy`
-
-**Core Concepts:** Data Structures and Algorithms, OOP, Problem Solving
+<h3 align="center">Core Concepts</h3>
+<p align="center">
+  <b>Data Structures and Algorithms</b> &nbsp;|&nbsp; <b>OOP</b> &nbsp;|&nbsp; <b>Networking</b> &nbsp;|&nbsp; <b>Problem Solving</b>
+</p>
 
 ---
 
