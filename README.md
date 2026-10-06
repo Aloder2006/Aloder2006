@@ -13,7 +13,7 @@
 
 ## About Me
 
-I'm a **third-year Computer Science & Artificial Intelligence student** at the Faculty of Computers and Artificial Intelligence, **Menoufia National University**.
+I'm a **third-year Computer Science & Artificial Intelligence student** at **Menoufia National University**.
 
 I focus on **backend development** with **Node.js**, and I'm currently studying in a dedicated **backend track at [Route](https://routeeg.com/)**. Outside of coursework, I build my own tools and **self-host them on Linux servers** (Ubuntu and Arch), which gives me hands-on experience with **deployment and server maintenance**.
 
