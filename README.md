@@ -1,96 +1,37 @@
-<div align="center">
+# Abdulrahman Atef
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=200&section=header&text=Abdulrahman%20Atef&fontSize=50&fontAlignY=35&desc=AI%20and%20Data%20Science%20%7C%20Full-Stack%20Developer%20%7C%20FCAI%20Student&descAlignY=55&descSize=16&fontColor=ffffff)
+Second-year Computer Science & AI student at the Faculty of Computers and Artificial Intelligence, Menoufia National University. I build web backends and small tools, and I'm going deeper into machine learning.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B72FF&center=true&vCenter=true&width=600&lines=Building+AI+that+makes+an+impact+%F0%9F%9A%80;MEAN+Stack+%2B+Machine+Learning+enthusiast;Competitive+programmer+%F0%9F%A7%A0;Gym+rat+%26+football+organizer+%E2%9A%BD)](https://git.io/typing-svg)
+## About
 
-</div>
+I mostly work with JavaScript (Node.js) and Python. Alongside university, I build my own projects and self-host them on Linux servers (Ubuntu and Arch), so I get hands-on with deployment, networking, and keeping things running. I also have a background in competitive programming, which is where most of my problem-solving habits come from.
 
----
+## Currently working on
 
-## 👋 Hey, I'm Abdulrahman!
+- Full-stack apps with MongoDB, Express, and Node.js
+- Machine learning fundamentals, from regression and classification up to neural networks
+- Data analysis and visualization with Pandas and NumPy
+- Regular practice on algorithm and data structure problems
 
-> *"From building AI models to organizing Ramadan football tournaments — I believe in teamwork, continuous learning, and making an impact."*
+## Projects
 
-I'm a **second-year CS & AI student** at the Faculty of Computers and Artificial Intelligence, Menoufia National University. I'm passionate about blending **software engineering** with **machine learning** to build scalable, impactful solutions — and I never stop learning.
+- [Project name](https://github.com/Aloder2006/repo) - one line on what it does and what it's built with
+- [Project name](https://github.com/Aloder2006/repo) - one line on what it does and what it's built with
+- [Project name](https://github.com/Aloder2006/repo) - one line on what it does and what it's built with
 
-- 🎓 Studying **Computer Science & Artificial Intelligence** @ FCAI
-- 💻 Background in **competitive programming** and algorithmic problem-solving camps
+## Tech
 
----
+**Languages:** Python, JavaScript, C++
+**Web:** Node.js, Express, MongoDB
+**ML / Data:** scikit-learn, Pandas, NumPy
+**Other:** Linux, Git, data structures and algorithms, OOP
 
-## 🛠️ Tech Stack
+## Stats
 
-<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aloder2006&theme=default" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aloder2006&theme=default" width="49%" />
 
-**Languages**
+## Contact
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-**Web Development**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**AI & Data Science**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Core Concepts**
-
-![DSA](https://img.shields.io/badge/DSA-9B72FF?style=for-the-badge&logo=leetcode&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-63D9FF?style=for-the-badge&logo=abstract&logoColor=black)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF6384?style=for-the-badge&logo=codeforces&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aloder2006&theme=radical" width="100%" />
-
-<img src="https://streak-stats.demolab.com/?user=Aloder2006&theme=radical&hide_border=true" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aloder2006&theme=radical" width="49%" />
-
-</div>
-
----
-
-## 🚀 What I'm Working On
-
-- 🔭 Building projects with the **MEAN Stack** (full-stack web apps)
-- 🧠 Diving deeper into **ML algorithms** — from regression to neural networks
-- 🏆 Sharpening **competitive programming** skills daily
-- 📚 Exploring **Data Analysis** pipelines and visualization
-
----
-
-## 🤝 Connect with Me
-
-<div align="center">
-  
-[![Tribbel](https://img.shields.io/badge/Tribbel.ai-00bc7d?style=for-the-badge)](https://www.tribbel.ai/users/i4rqm)
-<br>
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdoatef991@gmail.com)
-<br>
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/i4rqm)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=100&section=footer" width="100%" />
-
-⭐️ *If you find my work interesting, don't forget to leave a star!*
-
-</div>
+- Email: abdoatef991@gmail.com
+- Instagram: [@i4rqm](https://instagram.com/i4rqm)
